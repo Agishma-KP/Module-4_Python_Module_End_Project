@@ -1,6 +1,6 @@
 # Data story
 
-# Salary Analysis of Basketball Teams
+# ABC company Data Analysis
 
 ## Introduction
 
